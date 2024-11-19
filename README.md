@@ -7,6 +7,7 @@
 💞️ I’m looking to collaborate on Data Analytics and Visualization Projects
 
 📫 How to reach me: hardikjain0206@gmail.com
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I'm a six-time chess champion!

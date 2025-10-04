@@ -1,18 +1,15 @@
-👋 Hi, I’m @Hardikjain101
+👋 Hi, I’m Hardik Jain (@Hardikjain101)
 
-👀 I’m interested in Data Analytics, Business Intelligence, and Strategic Problem-Solving
+👀 Interests: Data Analytics, Business Intelligence, CRM Automation, and Strategic Problem-Solving
 
-🌱 I’m currently learning Advanced SQL, Python for Data Analysis, and Power BI
+💼 Current Role: MIS & Data Analyst @ BentChair – working on Financial Reporting, CRM Data, and Process Automation
 
-💞️ I’m looking to collaborate on Data Analytics and Visualization Projects
+✅ Skills & Tools: Advanced SQL, Python for Data Analysis, Power BI, Excel, Google Sheets, VBA, Apps Script, CRM Systems
 
-📫 How to reach me: hardikjain0206@gmail.com
+💞️ Collaboration: Open to working on Data Analytics, Visualization, and Automation Projects
+
+📫 Reach Me At: hardikjain0206@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm a six-time chess champion!
-<!---
-
-Hardikjain101/Hardikjain101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun Fact: I’m a six-time chess champion, and I love applying the same strategic mindset to data-driven problem-solving!
